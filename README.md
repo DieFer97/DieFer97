@@ -14,7 +14,7 @@
   
 *- 🤔 Estoy buscando ayuda con:* `mas aprendizaje y proyectos guia`
 
-*- 💬 Pregúntame sobre:* Java, Python, HTML, PHP, Json y MySQL
+*- 💬 Pregúntame sobre:* `Java, Python, HTML, PHP, Json y MySQL`
 
 *- 📫 Cómo contactarme:* `correo electrónico`
 
