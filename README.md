@@ -8,9 +8,9 @@
       1. Java 
       2. Python 
       3. HTML 
-      4.PHP 
-      5.Json 
-      6.MySQL
+      4. PHP 
+      5. Json 
+      6. MySQL
   
 *- 🤔 Estoy buscando ayuda con:* `mas aprendizaje y proyectos guia`
 
