@@ -14,9 +14,9 @@
   
 *- 🤔 Estoy buscando ayuda con:* `mas aprendizaje y proyectos guia`
 
-*- 💬 Pregúntame sobre:* `Java, Python, HTML, PHP, Json y MySQL`
+*- 💬 Pregúntame sobre:* `Java, Python, Typescript, Kotlin, React y Prisma`
 
-*- 📫 Cómo contactarme:* `correo electrónico`
+*- 📫 Cómo contactarme:* `correo electrónico` `whatsapp`
 
 *- ⚡ Dato curioso:* `Soy autodidacta, asi que aprendo rápido`
 
